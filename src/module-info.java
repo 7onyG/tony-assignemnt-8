@@ -5,5 +5,5 @@
  * @author anton
  *
  */
-module TonyAssignment8 {
+module tony_assignment_8 {
 }
